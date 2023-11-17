@@ -32,3 +32,6 @@ ros2 run chatbot script3
 ```
 
 <h3>Vídeo demonstrativo</h3>
+
+https://github.com/amandafontes/M8-Inteli-Autonomous-Vehicle-Prototyping/assets/77015911/dc0b055d-504d-4da6-bcff-d4f874b5adff
+
