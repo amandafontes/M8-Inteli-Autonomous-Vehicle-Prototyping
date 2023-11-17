@@ -8,7 +8,7 @@
   <p><b>Descrição:</b> entrega da segunda atividade ponderada do módulo, referente ao stack de navegação do ROS2.</p>
 <br>
 
-<li><a href="https://github.com/amandafontes/M8-Inteli-Autonomous-Vehicle-Prototyping/tree/main/ros2"><code>ros2</code></a>&nbsp;&nbsp;&nbsp;Scripts para relembrar o uso do ROS2.<br>
+<li><a href="https://github.com/amandafontes/M8-Inteli-Autonomous-Vehicle-Prototyping/tree/main/ros2_studies"><code>ros2_studies</code></a>&nbsp;&nbsp;&nbsp;Scripts para relembrar o uso do ROS2.<br>
   <p><b>Descrição:</b> códigos do módulo 6 utilizados para relembrar ROS2 utilizando turtlesim.</p>
 <br>
 
