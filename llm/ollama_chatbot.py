@@ -12,8 +12,7 @@ def load_model(historico, texto):
 with gr.Blocks() as interface:
     title = "Chatbot especialista em segurança do trabalho"
     chatbot = gr.Chatbot()
-    msg = gr.Textbox(lines=2, placeholder="Digite aqui a sua dúvida sobre segurança do trabalho em ambientes industriais.")
-    submit = gr.Button("Send")
+    msg = gr.Textbox(placeholder="Digite aqui a sua dúvida sobre segurança do trabalho em ambientes industriais.")
     clear = gr.ClearButton([msg, chatbot])
 
     msg.submit(load_model, [chatbot, msg], [msg, chatbot])
