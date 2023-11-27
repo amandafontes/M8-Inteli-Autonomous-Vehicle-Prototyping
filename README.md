@@ -23,3 +23,5 @@
 <li><a href="https://github.com/amandafontes/M8-Inteli-Autonomous-Vehicle-Prototyping/tree/main/docs"><code>docs</code></a>&nbsp;&nbsp;&nbsp;Configuração do docusaurus.<br>
   <p><b>Descrição:</b> implementação do docusaurus a partir do conteúdo do primeiro encontro do módulo.</p>
 <br>
+
+**Parceiro de projeto:** Ambev
