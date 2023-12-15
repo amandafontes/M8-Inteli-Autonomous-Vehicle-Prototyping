@@ -68,3 +68,12 @@ python3 script.py
 ```
 
 Desse modo, será possível interagir com a aplicação via terminal, de forma contínua, até que a execução do código seja interrompida.
+
+<h3>Demonstração</h3>
+
+Abaixo, é possível visualizar um vídeo demonstrativo do código em funcionamento.
+
+
+
+https://github.com/amandafontes/M8-Inteli-Autonomous-Vehicle-Prototyping/assets/77015911/cb142373-f88d-4726-91a6-b042c2dc2e90
+
